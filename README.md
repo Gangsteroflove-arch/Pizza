@@ -14,8 +14,7 @@
 - https://github.com/Gangsteroflove-arch/Pizza.git
 
 # Github Website url
-- https://github.com/Gangsteroflove-arch/Pizza.git
-
+- https://gangsteroflove-arch.github.io/Pizza/)
 # future improvements
 - item 1
 - item 2
