@@ -3,7 +3,7 @@
 # Website Project Name
 
 # Author
-- author name
+- Maurice lopes
 
 # Website Technology
 - html
